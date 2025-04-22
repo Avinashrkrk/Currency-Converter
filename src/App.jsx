@@ -197,7 +197,7 @@ function App() {
           </div>
           
           <footer className="text-center text-white/50 py-6 mt-12">
-            <p>© {new Date().getFullYear()} Currency Converter Pro | Designed for your resume</p>
+            <p>© {new Date().getFullYear()} Currency Converter Pro</p>
           </footer>
         </div>
       </div>
